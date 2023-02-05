@@ -65,7 +65,7 @@ class Recipe
 end
 
 # Repository class
-# (in lib/book_repository.rb)
+# (in lib/recipe_repository.rb)
 class RecipeRepository
 end
 ```
